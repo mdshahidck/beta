@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<h2>Testing war package another time</h2>
+<h1>Testing war package one more time</h1>
 </body>
 </html>
